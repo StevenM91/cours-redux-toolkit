@@ -31,22 +31,28 @@
       "id": 6
     },
     {
-      "artist": "Neil Burnell",
-      "year": "2012",
-      "photo": "https://picsum.photos/400/443",
-      "id": 7
-    },
-    {
-      "artist": "Jidhun",
-      "year": "2009",
-      "photo": "https://picsum.photos/400/364",
-      "id": 8
-    },
-    {
       "artist": "Martin Grange",
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "stev",
+      "year": "2010",
+      "photo": "https://picsum.photos/400/330",
+      "id": 10
+    },
+    {
+      "artist": "gwendoline",
+      "year": "2010",
+      "photo": "https://picsum.photos/400/383",
+      "id": 11
+    },
+    {
+      "artist": "Mouya",
+      "year": "2016",
+      "photo": "https://picsum.photos/400/385",
+      "id": 12
     }
   ]
 }
